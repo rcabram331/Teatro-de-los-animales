@@ -1,0 +1,1104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260511175348ZV23Z7</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260511175348GX7L28</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SdA El teatro de los animales </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Remedios Cabrera Ramírez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Los alumnos de 2º realizarán como producto final un cartel para el teatro de los animales que van a representar ellos mismos. </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778514504959</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mp1dm6s4-5r3k4n39e</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1.¡Comenzamos!</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.¡Comenzamos!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.¡Comenzamos!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1.¡Comenzamos!</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp1dm6s4-5r3k4n39e</odePageId>
+      <odeBlockId>block-1778491932942-oeh923lif</odeBlockId>
+      <blockName>Empieza el espectáculo.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp1dm6s4-5r3k4n39e</odePageId>
+          <odeBlockId>block-1778491932942-oeh923lif</odeBlockId>
+          <odeIdeviceId>idevice-1778491932938-neeo5t19j</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/espectaculo-ilustrado-titeres-ninos-fondo_23-2148904865.avif" width="740" height="740" alt="" />Esta situación de aprendizaje nos llevará a descubrir el maravilloso mundo de los animales. Aprenderemos cómo son, qué necesitan y, sobre todo, cómo debemos cuidarlos con cariño y responsabilidad. Porque tener una mascota no es solo jugar con ella… ¡también hay que alimentarla, protegerla y darle mucho amor! </p>
+<p>Además, nos convertiremos en auténticos actores y actrices . A través del teatro podremos divertirnos, trabajar en equipo y expresar nuestras emociones. También mejoraremos la atención, la imaginación y la confianza en nosotros mismos.</p>
+<p>Y para terminar… ¡una gran sorpresa musical! Todos los niños y niñas cantarán juntos una canción final, colaborando con sus compañeros y compañeras del área de música. ¡Será un espectáculo lleno de alegría, aprendizaje y diversión! </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778491932938-neeo5t19j","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/espectaculo-ilustrado-titeres-ninos-fondo_23-2148904865.avif\" width=\"740\" height=\"740\" alt=\"\" />Esta situación de aprendizaje nos llevará a descubrir el maravilloso mundo de los animales. Aprenderemos cómo son, qué necesitan y, sobre todo, cómo debemos cuidarlos con cariño y responsabilidad. Porque tener una mascota no es solo jugar con ella… ¡también hay que alimentarla, protegerla y darle mucho amor! </p>\n<p>Además, nos convertiremos en auténticos actores y actrices . A través del teatro podremos divertirnos, trabajar en equipo y expresar nuestras emociones. También mejoraremos la atención, la imaginación y la confianza en nosotros mismos.</p>\n<p>Y para terminar… ¡una gran sorpresa musical! Todos los niños y niñas cantarán juntos una canción final, colaborando con sus compañeros y compañeras del área de música. ¡Será un espectáculo lleno de alegría, aprendizaje y diversión! </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp1dm6s7-h137tcz8t</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2.Guía Didáctica.</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.Guía Didáctica.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.Guía Didáctica.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2.Guía Didáctica.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp1dm6s7-h137tcz8t</odePageId>
+      <odeBlockId>block-1778492153860-rn624asgk</odeBlockId>
+      <blockName>Guía didáctica.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp1dm6s7-h137tcz8t</odePageId>
+          <odeBlockId>block-1778492153860-rn624asgk</odeBlockId>
+          <odeIdeviceId>idevice-1778492153859-iqb7ba8o6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Título de la Situación de Aprendizaje: </strong>El teatro de los animales.<br /><strong>Centro de interés:</strong> Los animales y su cuidado, un tema muy motivador para los niños.<br /><strong>Nivel:</strong> 2º de Educación Primaria.<br /><strong>Temporalización:</strong> Un mes (segunda quincena de mayo y primera de junio).<br /><strong>Materias implicadas:</strong> Conocimiento del Medio, Lengua Castellana y Literatura y Música.<br /><strong>Idioma:</strong> Castellano.<br /><strong>Descripción general</strong><br />- Conocer el mundo de los animales y aprender a cuidarlos con responsabilidad.<br />- Trabajar el teatro como actividad motivadora y divertida.<br />- Mejorar la atención, la autoestima y el trabajo en equipo.<br />- Representar una obra teatral con una canción final en grupo junto al área de Música.<br /><strong>Justificación: </strong>Actividad interdisciplinar con diferentes experiencias de aprendizaje.<br /><strong>Producto final:</strong> representación de un teatro para otros compañeros.<br /><strong>Evaluación:</strong> Se realizarán pruebas orales y escritas sencillas.<br />Se trabajará la responsabilidad y la participación en el teatro.<br />Se atenderán posibles conflictos y preferencias de personajes.<br /><strong>Análisis:</strong> Fomento del trabajo en equipo y la ayuda entre compañeros.<br />Importancia del respeto, el compromiso y el esfuerzo común.<br />Necesidad de preparar en casa los papeles del teatro.<br /><strong>Conclusión:</strong> El teatro favorece un aprendizaje significativo y motivador.<br />Todos aprendemos juntos y compartimos experiencias enriquecedoras.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778492153859-iqb7ba8o6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Título de la Situación de Aprendizaje: </strong>El teatro de los animales.<br /><strong>Centro de interés:</strong> Los animales y su cuidado, un tema muy motivador para los niños.<br /><strong>Nivel:</strong> 2º de Educación Primaria.<br /><strong>Temporalización:</strong> Un mes (segunda quincena de mayo y primera de junio).<br /><strong>Materias implicadas:</strong> Conocimiento del Medio, Lengua Castellana y Literatura y Música.<br /><strong>Idioma:</strong> Castellano.<br /><strong>Descripción general</strong><br />- Conocer el mundo de los animales y aprender a cuidarlos con responsabilidad.<br />- Trabajar el teatro como actividad motivadora y divertida.<br />- Mejorar la atención, la autoestima y el trabajo en equipo.<br />- Representar una obra teatral con una canción final en grupo junto al área de Música.<br /><strong>Justificación: </strong>Actividad interdisciplinar con diferentes experiencias de aprendizaje.<br /><strong>Producto final:</strong> representación de un teatro para otros compañeros.<br /><strong>Evaluación:</strong> Se realizarán pruebas orales y escritas sencillas.<br />Se trabajará la responsabilidad y la participación en el teatro.<br />Se atenderán posibles conflictos y preferencias de personajes.<br /><strong>Análisis:</strong> Fomento del trabajo en equipo y la ayuda entre compañeros.<br />Importancia del respeto, el compromiso y el esfuerzo común.<br />Necesidad de preparar en casa los papeles del teatro.<br /><strong>Conclusión:</strong> El teatro favorece un aprendizaje significativo y motivador.<br />Todos aprendemos juntos y compartimos experiencias enriquecedoras.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp1dm6s7-h137tcz8t</odePageId>
+      <odeBlockId>block-1778508937990-pes1fa3hy</odeBlockId>
+      <blockName>Relación de tareas con criterios de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp1dm6s7-h137tcz8t</odePageId>
+          <odeBlockId>block-1778508937990-pes1fa3hy</odeBlockId>
+          <odeIdeviceId>idevice-1778508937988-2faluso75</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/mceclip2.png" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778508937988-2faluso75","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/mceclip2.png\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp1dm6s9-xbipng0jh</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3.Contextualización.</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.Contextualización.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.Contextualización.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3.Contextualización.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp1dm6s9-xbipng0jh</odePageId>
+      <odeBlockId>block-1778492761186-zfhr0slri</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp1dm6s9-xbipng0jh</odePageId>
+          <odeBlockId>block-1778492761186-zfhr0slri</odeBlockId>
+          <odeIdeviceId>idevice-1778492761182-ot5amhjv3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La presente Situación de Aprendizaje está dirigida al alumnado de 2º de Educación Primaria y gira en torno al apasionante mundo de los animales, un tema muy motivador e interesante para estas edades. A través de diferentes actividades, los alumnos conocerán las características de distintos animales, así como la importancia de su cuidado y respeto.</p>
+<p>Como producto final, el alumnado realizará una representación teatral en la que cada niño y niña interpretará a un animal. Esta obra será representada posteriormente para el resto del colegio, favoreciendo así la participación activa, la expresión oral y el trabajo cooperativo.</p>
+<p>La elección del teatro como eje principal de esta situación de aprendizaje responde a los numerosos beneficios educativos que aporta, ya que contribuye al desarrollo de la memoria de trabajo, la atención, la creatividad, la flexibilidad cognitiva y la autoestima del alumnado. Además, permite trabajar de forma lúdica y motivadora contenidos de diferentes áreas.</p>
+<p>Por otro lado, aprovechando el inicio del trabajo con herramientas digitales en este nivel, este curso se incorporará el uso de Canva para la elaboración de un cartel anunciador de la obra. Se ha seleccionado esta herramienta por ser sencilla, intuitiva y adecuada para la edad del alumnado. Dado que los niños y niñas aún tienen poca experiencia en el uso de recursos digitales —ya que en el curso anterior el aprendizaje se centró principalmente en la lectoescritura—, se considera conveniente comenzar con aplicaciones accesibles que permitan la participación de todo el grupo de manera guiada y colaborativa.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778492761182-ot5amhjv3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La presente Situación de Aprendizaje está dirigida al alumnado de 2º de Educación Primaria y gira en torno al apasionante mundo de los animales, un tema muy motivador e interesante para estas edades. A través de diferentes actividades, los alumnos conocerán las características de distintos animales, así como la importancia de su cuidado y respeto.</p>\n<p>Como producto final, el alumnado realizará una representación teatral en la que cada niño y niña interpretará a un animal. Esta obra será representada posteriormente para el resto del colegio, favoreciendo así la participación activa, la expresión oral y el trabajo cooperativo.</p>\n<p>La elección del teatro como eje principal de esta situación de aprendizaje responde a los numerosos beneficios educativos que aporta, ya que contribuye al desarrollo de la memoria de trabajo, la atención, la creatividad, la flexibilidad cognitiva y la autoestima del alumnado. Además, permite trabajar de forma lúdica y motivadora contenidos de diferentes áreas.</p>\n<p>Por otro lado, aprovechando el inicio del trabajo con herramientas digitales en este nivel, este curso se incorporará el uso de Canva para la elaboración de un cartel anunciador de la obra. Se ha seleccionado esta herramienta por ser sencilla, intuitiva y adecuada para la edad del alumnado. Dado que los niños y niñas aún tienen poca experiencia en el uso de recursos digitales —ya que en el curso anterior el aprendizaje se centró principalmente en la lectoescritura—, se considera conveniente comenzar con aplicaciones accesibles que permitan la participación de todo el grupo de manera guiada y colaborativa.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp1dm6sa-hu59uchmb</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. Objetivos y competencias. </pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Objetivos y competencias. </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Objetivos y competencias. </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp1dm6sa-hu59uchmb</odePageId>
+      <odeBlockId>block-1778492935891-k7q6e0wmn</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp1dm6sa-hu59uchmb</odePageId>
+          <odeBlockId>block-1778492935891-k7q6e0wmn</odeBlockId>
+          <odeIdeviceId>idevice-1778492935889-qzqr6ed8u</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>“El teatro de los animales” </strong></p>
+<p><br />1. Conocer algunos animales, sus características y los cuidados que necesitan. <strong>Competencias clave:</strong> STEM, CPSAA, CC.<br />2. Expresarse oralmente de forma clara y sencilla mediante diálogos, canciones y dramatizaciones. <strong>Competencias clave:</strong> CCL, CCEC.<br />3. Leer y comprender pequeños textos relacionados con los animales y el teatro. <strong>Competencias clave:</strong> CCL, CPSAA.<br />4. Participar en la representación de una obra teatral mostrando interés, creatividad y confianza. <strong>Competencias clave:</strong> CCEC, CPSAA, CE.<br />5. Trabajar en equipo respetando las ideas, turnos y responsabilidades de los compañeros. <strong>Competencias clave:</strong> CC, CPSAA, CE.<br />6. Desarrollar la memoria, la atención y la imaginación a través del teatro y la música. <strong>Competencias clave: </strong>CPSAA, CCEC.<br />7. Utilizar herramientas digitales sencillas, como Canva, para crear un cartel de manera guiada. <strong>Competencias clave:</strong> CD, CE.<br />8. Disfrutar de las actividades artísticas y valorar el esfuerzo propio y el de los demás. <strong>Competencias clave:</strong> CCEC, CPSAA, CC.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778492935889-qzqr6ed8u","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>“El teatro de los animales” </strong></p>\n<p><br />1. Conocer algunos animales, sus características y los cuidados que necesitan. <strong>Competencias clave:</strong> STEM, CPSAA, CC.<br />2. Expresarse oralmente de forma clara y sencilla mediante diálogos, canciones y dramatizaciones. <strong>Competencias clave:</strong> CCL, CCEC.<br />3. Leer y comprender pequeños textos relacionados con los animales y el teatro. <strong>Competencias clave:</strong> CCL, CPSAA.<br />4. Participar en la representación de una obra teatral mostrando interés, creatividad y confianza. <strong>Competencias clave:</strong> CCEC, CPSAA, CE.<br />5. Trabajar en equipo respetando las ideas, turnos y responsabilidades de los compañeros. <strong>Competencias clave:</strong> CC, CPSAA, CE.<br />6. Desarrollar la memoria, la atención y la imaginación a través del teatro y la música. <strong>Competencias clave: </strong>CPSAA, CCEC.<br />7. Utilizar herramientas digitales sencillas, como Canva, para crear un cartel de manera guiada. <strong>Competencias clave:</strong> CD, CE.<br />8. Disfrutar de las actividades artísticas y valorar el esfuerzo propio y el de los demás. <strong>Competencias clave:</strong> CCEC, CPSAA, CC.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp1dm6sb-osuwwbisf</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. Actividades.</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp1dm6sb-osuwwbisf</odePageId>
+      <odeBlockId>block-1778493103581-c3q7lalw7</odeBlockId>
+      <blockName>Línea temporal</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp1dm6sb-osuwwbisf</odePageId>
+          <odeBlockId>block-1778493103581-c3q7lalw7</odeBlockId>
+          <odeIdeviceId>idevice-1778493103578-cyqi1u5k9</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778493103578-cyqi1u5k9" title="" href="{{context_path}}/content/resources/TAREA 7.1 línea temporal.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/TAREA 7.1 línea temporal.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778493103578-cyqi1u5k9","img_0":{"img":"{{context_path}}/content/resources/TAREA 7.1 línea temporal.png","thumbnail":"{{context_path}}/content/resources/TAREA 7.1 línea temporal.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp1dm6sc-c7tgn5l8c</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. Recursos y materiales.</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Recursos y materiales.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Recursos y materiales.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp1dm6sc-c7tgn5l8c</odePageId>
+      <odeBlockId>block-1778493256322-olz2yd4em</odeBlockId>
+      <blockName>Ejemplo de cartel</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp1dm6sc-c7tgn5l8c</odePageId>
+          <odeBlockId>block-1778493256322-olz2yd4em</odeBlockId>
+          <odeIdeviceId>idevice-1778493256319-15yla4y49</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778493256319-15yla4y49" title="" href="{{context_path}}/content/resources/POSIBLE CARTEL DE TEATRO.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/POSIBLE CARTEL DE TEATRO.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778493256319-15yla4y49","img_0":{"img":"{{context_path}}/content/resources/POSIBLE CARTEL DE TEATRO.png","thumbnail":"{{context_path}}/content/resources/POSIBLE CARTEL DE TEATRO.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp1dm6sc-c7tgn5l8c</odePageId>
+      <odeBlockId>block-1778507806601-nuub3m7kj</odeBlockId>
+      <blockName>Infografía</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp1dm6sc-c7tgn5l8c</odePageId>
+          <odeBlockId>block-1778507806601-nuub3m7kj</odeBlockId>
+          <odeIdeviceId>idevice-1778507806599-1k2oh33a7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Diseño sin título (1).jpg" width="943" height="2000" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778507806599-1k2oh33a7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Diseño sin título (1).jpg\" width=\"943\" height=\"2000\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp1dm6sc-c7tgn5l8c</odePageId>
+      <odeBlockId>block-1778508175950-vcyzqbkz6</odeBlockId>
+      <blockName>Curación de contenidos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp1dm6sc-c7tgn5l8c</odePageId>
+          <odeBlockId>block-1778508175950-vcyzqbkz6</odeBlockId>
+          <odeIdeviceId>idevice-1778508175947-fryxc7vrv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Recursos digitales: </strong></p>
+<p>Padlet</p>
+<p><a href="https://padlet.com/rcabram331/los-animales-8a6ly3i61vevlmli">https://padlet.com/rcabram331/los-animales-8a6ly3i61vevlmli</a></p>
+<p>Symbaloo</p>
+<p><a href="https://www.symbaloo.com/mix/animales3?q=ANIMALES">https://www.symbaloo.com/mix/animales3?q=ANIMALES</a></p>
+<p></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778508175947-fryxc7vrv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Recursos digitales: </strong></p>\n<p>Padlet</p>\n<p><a href=\"https://padlet.com/rcabram331/los-animales-8a6ly3i61vevlmli\">https://padlet.com/rcabram331/los-animales-8a6ly3i61vevlmli</a></p>\n<p>Symbaloo</p>\n<p><a href=\"https://www.symbaloo.com/mix/animales3?q=ANIMALES\">https://www.symbaloo.com/mix/animales3?q=ANIMALES</a></p>\n<p></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp1dm6se-iltn9um7p</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>7. Instrumentos de evaluación.</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. Instrumentos de evaluación.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. Instrumentos de evaluación.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp1dm6se-iltn9um7p</odePageId>
+      <odeBlockId>block-1778508396491-ykiv749u4</odeBlockId>
+      <blockName>Ejemplos de actividades con los instrumentos de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp1dm6se-iltn9um7p</odePageId>
+          <odeBlockId>block-1778508396491-ykiv749u4</odeBlockId>
+          <odeIdeviceId>idevice-1778508396488-2qx55r7ed</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Mural de ideas sobre animales. </strong><br />Los alumnos de segundo de primaria tras el visionado de los vídeos sobre <br />animales vertebrados e invertebrados van a ir exponiendo sus ideas de forma que <br />hagamos un mural colaborativo entre todos. Se realizará en dos sesiones, una <br />para cada grupo de animales con el grupo clase completo. La herramienta que <br />usamos es Padlet. <br />Está vinculada con el <em>criterio de evaluación LCL2.1 Comprender el sentido de </em><br /><em>textos orales y multimodales sencillos, reconociendo las ideas principales y los </em><br /><em>mensajes explícitos e implícitos más sencillos. </em><br /> El instrumento principal será una rúbrica complementada con observación directa:</p>
+<p><img src="{{context_path}}/content/resources/mceclip0.png" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778508396488-2qx55r7ed","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Mural de ideas sobre animales. </strong><br />Los alumnos de segundo de primaria tras el visionado de los vídeos sobre <br />animales vertebrados e invertebrados van a ir exponiendo sus ideas de forma que <br />hagamos un mural colaborativo entre todos. Se realizará en dos sesiones, una <br />para cada grupo de animales con el grupo clase completo. La herramienta que <br />usamos es Padlet. <br />Está vinculada con el <em>criterio de evaluación LCL2.1 Comprender el sentido de </em><br /><em>textos orales y multimodales sencillos, reconociendo las ideas principales y los </em><br /><em>mensajes explícitos e implícitos más sencillos. </em><br /> El instrumento principal será una rúbrica complementada con observación directa:</p>\n<p><img src=\"{{context_path}}/content/resources/mceclip0.png\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp1dm6se-iltn9um7p</odePageId>
+      <odeBlockId>block-1778508502271-mn178068x</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp1dm6se-iltn9um7p</odePageId>
+          <odeBlockId>block-1778508502271-mn178068x</odeBlockId>
+          <odeIdeviceId>idevice-1778508502269-ijf356j5e</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Aprendemos a ser actores. </strong><br />Mediante una infografía que visionamos en Padlet los alumnos van a aprender a <br />ser actores aplicando el código de honor del buen artista. Se realizará en <br />pequeños grupos y se llevará a cabo durante una sesión. <br />Está vinculada con el <em>criterio de evaluación LCL3.2 Participa en interacciones </em><br /><em>orales espontáneas, incorporando estrategias elementales de escucha activa y de </em><br /><em>cortesía lingüística. </em><br />El instrumento principal será una lista de cotejo complementada con observación <br />directa:</p>
+<p><img src="{{context_path}}/content/resources/mceclip1.png" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778508502269-ijf356j5e","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Aprendemos a ser actores. </strong><br />Mediante una infografía que visionamos en Padlet los alumnos van a aprender a <br />ser actores aplicando el código de honor del buen artista. Se realizará en <br />pequeños grupos y se llevará a cabo durante una sesión. <br />Está vinculada con el <em>criterio de evaluación LCL3.2 Participa en interacciones </em><br /><em>orales espontáneas, incorporando estrategias elementales de escucha activa y de </em><br /><em>cortesía lingüística. </em><br />El instrumento principal será una lista de cotejo complementada con observación <br />directa:</p>\n<p><img src=\"{{context_path}}/content/resources/mceclip1.png\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp1dm6sf-es9dd7a0j</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>8. Créditos y licencias. </pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. Créditos y licencias. </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. Créditos y licencias. </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp1dm6sf-es9dd7a0j</odePageId>
+      <odeBlockId>block-1778509121284-wvmrul10x</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp1dm6sf-es9dd7a0j</odePageId>
+          <odeBlockId>block-1778509121284-wvmrul10x</odeBlockId>
+          <odeIdeviceId>idevice-1778509121283-5csb9igt1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Autoría:</strong></p>
+<p>Remedios Cabrera Ramírez</p>
+<p><strong>Descripción:</strong><br /></p>
+<p>Teatro de animales. Interpretado por el alumnado de 2º de Primaria. </p>
+<p><strong>Licencia:</strong><br />Creative Commons CC BY-SA 4.0</p>
+<p><strong>Archivo editable:</strong><br /></p>
+<p><strong title="sda-el-teatro-de-los-animales- (1).elpx"><a href="{{context_path}}/content/resources/sda-el-teatro-de-los-animales- (1).elpx" title="sda-el-teatro-de-los-animales- (1).elpx">sda-el-teatro-de-los-animales- (1).elpx</a></strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778509121283-5csb9igt1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Autoría:</strong></p>\n<p>Remedios Cabrera Ramírez</p>\n<p><strong>Descripción:</strong><br /></p>\n<p>Teatro de animales. Interpretado por el alumnado de 2º de Primaria. </p>\n<p><strong>Licencia:</strong><br />Creative Commons CC BY-SA 4.0</p>\n<p><strong>Archivo editable:</strong><br /></p>\n<p><strong title=\"sda-el-teatro-de-los-animales- (1).elpx\"><a href=\"{{context_path}}/content/resources/sda-el-teatro-de-los-animales- (1).elpx\" title=\"sda-el-teatro-de-los-animales- (1).elpx\">sda-el-teatro-de-los-animales- (1).elpx</a></strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
